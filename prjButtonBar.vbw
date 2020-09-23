@@ -1,0 +1,8 @@
+ButtonBar = 66, 66, 556, 562, Z, 44, 44, 691, 698, C
+modDeclare = 0, 0, 539, 496, C
+modNoFocusRect = 154, 154, 644, 650, C
+LargeIcon = 110, 110, 682, 606, C, 0, 0, 572, 496, C
+modApi = 22, 22, 505, 518, C
+LargeButton3D = 99, 175, 634, 671, C, 110, 110, 645, 606, C
+clsIcons = 176, 176, 717, 672, C
+clsIcon = 198, 198, 784, 694, C
